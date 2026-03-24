@@ -1,0 +1,10 @@
+img {
+    width:400px;
+}
+body {
+    text-align: center;
+    text-decoration: dotted;
+    font-family: 'Lucida Sans Unicode';
+        background-image:linear-gradient(to bottom, rebeccapurple, indigo);
+    color: bisque;
+}
